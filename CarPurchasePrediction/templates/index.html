@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+    <title>startup</title>
+</head>
+<body>
+    <h1>Car purchase prediction</h1>
+    <form action ="/login" method = "post">
+
+    <label for ="Gender">Choose the Gender</label>
+    <select name = "s">
+    <option value ="cal">Male</option>
+    <option value ="flo">Female</option>
+    </select>
+    <p>Age</p>
+    <p><input type ="text" name ="rd"/></p>
+    
+    <p>Salary</p>
+    <p><input type ="text" name ="as"/></p>
+
+    
+   
+    <p><input type ="submit" value ="submit"/></p>
+
+    <h2><b>Will the customer purchase a car? </b></h2>
+    <h2>
+        <b>{% if y %}Yes{% else %}No{% endif %}</b>
+    </h2>
+    
+
+    
+    
+</form>     
+</body>
+</html>
