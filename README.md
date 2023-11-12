@@ -41,6 +41,6 @@ Decision Tree
 9)Click submit button, the probabilty of purchasing a car will be displayed.
 
 # Note
-When running the code in the terminal, make sure that the path of the folder is correctly mentiond.
+When running the code in the terminal, make sure that the path of the folder is correctly mentioned.
 
 
