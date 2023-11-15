@@ -42,6 +42,6 @@ Decision Tree
 9)Click submit button, the probabilty of purchasing a car will be displayed.
 
 # Note
-When running the code in the terminal, make sure that the path of the folder is correctly mentioned.
+When running the code in the terminal, make sure that the path of the folder is correctly mentioned.By incorporating these practices, you can ensure that your code is more robust, user-friendly, and efficient.
 
 
