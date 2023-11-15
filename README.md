@@ -1,4 +1,5 @@
 # SI-GuidedProject-599512-1697547378
+# Complete documentation is uploaded under the folder named " Car Purchase prediction Using ML document " - Contains all the documents of all the phases.
 # The Project title : Car purchase Prediction
 
 Car purchaese prediction model predicts the probability of buying a car based on gender,age,and salary.
